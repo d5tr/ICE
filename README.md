@@ -1,4 +1,4 @@
-# ICE tool
+# ICE tool 
 
 * for encrypt file and words and password 
 * you can encrypt python file 
@@ -9,4 +9,55 @@
 
 ![ICE](https://github.com/d5tr/ICE/blob/main/I.png)
 
+# Installations 
 
+# For KALI LINUX :
+
+```
+$ git clone https://github.com/d5tr/ICE
+```
+
+```
+$ cd ICE
+```
+
+```
+$ sudo chmod +x installer.sh
+```
+
+```
+$ ./installer.sh OR bash installer.sh
+```
+
+
+# For ISH :
+
+```
+$ git clone https://github.com/d5tr/ICE
+```
+
+```
+$ cd ICE
+```
+
+```
+$ sudo chmod +x installer.sh
+```
+
+```
+$ ./installer.sh OR bash installer.sh
+```
+
+# Usege 
+
+```
+$ python3 ICE.py
+```
+
+# Follow me 
+
+* [Instagram](https://instagram.com/d_5tr)
+
+
+
+* [Telegram](https://t.me/d5tr_Cyber)
