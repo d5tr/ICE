@@ -41,7 +41,7 @@ $ cd ICE
 ```
 
 ```
-$ sudo chmod +x installer.sh
+$ chmod +x installer.sh
 ```
 
 ```
